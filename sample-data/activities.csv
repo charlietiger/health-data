@@ -1,0 +1,14 @@
+recorded_at,activity_type,distance_miles,sets,avg_pace_seconds,duration_minutes,calories,notes
+2025-01-06T07:30:00Z,Running,3.1,,480,30,320,Morning run - easy pace
+2025-01-06T17:00:00Z,Weight Training,,4,,45,250,Upper body - bench press and rows
+2025-01-07T06:45:00Z,Running,5.0,,465,48,510,Tempo run
+2025-01-07T12:00:00Z,Yoga,,,,,150,Vinyasa flow
+2025-01-08T07:00:00Z,Pool Swimming,1500,,,40,280,Freestyle laps (distance in meters)
+2025-01-08T17:30:00Z,Weight Training,,5,,50,290,Leg day - squats and deadlifts
+2025-01-09T07:00:00Z,Cycling,12.5,,,45,380,Road bike - moderate effort
+2025-01-09T18:00:00Z,Walking,2.0,,,30,120,Evening walk
+2025-01-10T06:30:00Z,Running,4.0,,470,38,400,Hill repeats
+2025-01-10T12:00:00Z,Yoga,,,,,140,Power yoga
+2025-01-11T08:00:00Z,Running,6.2,,490,62,620,Long run - Saturday
+2025-01-11T14:00:00Z,Weight Training,,4,,40,230,Full body circuit
+2025-01-12T09:00:00Z,Walking,3.5,,,50,170,Sunday hike
